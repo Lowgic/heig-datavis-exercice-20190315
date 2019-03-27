@@ -1,0 +1,82 @@
+[
+  {
+    "country_asylum": "Canada",
+    "somme": 54
+  },
+  {
+    "country_asylum": "Norway",
+    "somme": 6
+  },
+  {
+    "country_asylum": "USA",
+    "somme": 21
+  },
+  {
+    "country_asylum": "Austria",
+    "somme": 4
+  },
+  {
+    "country_asylum": "Germany",
+    "somme": 7
+  },
+  {
+    "country_asylum": "Netherlands",
+    "somme": 6
+  },
+  {
+    "country_asylum": "Australia",
+    "somme": 5
+  },
+  {
+    "country_asylum": "Liechtenstein",
+    "somme": 3
+  },
+  {
+    "country_asylum": "Korea",
+    "somme": 1
+  },
+  {
+    "country_asylum": "Czech Rep",
+    "somme": 1
+  },
+  {
+    "country_asylum": "Spain",
+    "somme": 1
+  },
+  {
+    "country_asylum": "Sweden",
+    "somme": 2
+  },
+  {
+    "country_asylum": "Switzerland",
+    "somme": 7
+  },
+  {
+    "country_asylum": "Italy",
+    "somme": 1
+  },
+  {
+    "country_asylum": "New Zealand",
+    "somme": 5
+  },
+  {
+    "country_asylum": "Luxembourg",
+    "somme": 15
+  },
+  {
+    "country_asylum": "Iceland",
+    "somme": 4
+  },
+  {
+    "country_asylum": "Malta",
+    "somme": 2
+  },
+  {
+    "country_asylum": "Belgium",
+    "somme": 1
+  },
+  {
+    "country_asylum": "Finland",
+    "somme": 1
+  }
+]
